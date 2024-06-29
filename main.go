@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Print("Assalamu Aleykum, brother!")
+	fmt.Print("Assalamu Aleykum, brother!\n")
+	print_var()
 }
