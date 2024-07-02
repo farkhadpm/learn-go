@@ -12,5 +12,5 @@ func print_var() {
 	intt2 := 10 // :=
 	const pi float64 = 3.14
 
-	fmt.Println("\nInteger: ", intt, "\nString: ", stringg, "\nFloat: ", floatt, "\nInteger (:=): ", intt2, "\nConstant Pi = ", pi)
+	fmt.Println("Integer: ", intt, "\nString: ", stringg, "\nFloat: ", floatt, "\nInteger (:=): ", intt2, "\nConstant Pi = ", pi)
 }
